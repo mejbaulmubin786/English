@@ -396,9 +396,7 @@ Causative verb হলো এমন এক ধরণের ক্রিয়া য
 4. **He got the manager to approve the budget.** - সে ম্যানেজারকে বাজেট অনুমোদন করাতে রাজি করিয়েছে।
 5. **She got her friends to help with the move.** - সে তার বন্ধুদের স্থানান্তরে সাহায্য করতে রাজি করিয়েছে।
 6. **They got the team to work harder.** - তারা দলকে আরও কঠোর পরিশ্রম করতে রাজি করিয়েছে।
-7. **He got the documents signed.** - সে দলিলগুলো স্বাক্ষ
-
-র করিয়েছে।
+7. **He got the documents signed.** - সে দলিলগুলো স্বাক্ষর করিয়েছে।
 8. **She got the children to clean their rooms.** - সে বাচ্চাদের তাদের ঘর পরিষ্কার করতে রাজি করিয়েছে।
 9. **They got the project done on time.** - তারা প্রকল্পটি সময়মত শেষ করিয়েছে।
 10. **He got her to apologize.** - সে তাকে ক্ষমা চাইতে রাজি করিয়েছে।
